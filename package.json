@@ -1,0 +1,25 @@
+{
+    "name": "react-markdown-converter",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"No tests specified\" && exit 0"
+    },
+    "keywords": [
+        "markdown",
+        "converter"
+    ],
+    "author": "XolifyDev",
+    "license": "MIT",
+    "dependencies": {
+        "markdown-converter": "^0.2.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/XolifyDev/react-markdown-converter.git"
+    },
+    "bugs": {
+        "url": "https://github.com/XolifyDev/react-markdown-converter/issues"
+    },
+    "homepage": "https://github.com/XolifyDev/react-markdown-converter#readme"
+}
