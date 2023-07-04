@@ -51,7 +51,7 @@ In the example above, the `myMarkdownSyntax` object contains two custom syntax m
 
 ## Contributing
 
-Contributions to **react-markdown-converter** are welcome! If you find any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/your-username/react-markdown-converter). You can also submit pull requests with proposed changes.
+Contributions to **react-markdown-converter** are welcome! If you find any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/XolifyDev/react-markdown-converter). You can also submit pull requests with proposed changes.
 
 ## License
 
